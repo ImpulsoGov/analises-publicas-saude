@@ -1,0 +1,31 @@
+# Drafts
+drafts/
+
+# Virtual envs
+.internal_analysis
+
+# Python
+.ipynb_checkpoints/
+
+# Files
+*.csv
+*.xlsx
+*.xls
+*.txt
+!requirements.txt
+*.html
+
+# Exception files
+!subnotification/data/treated/*
+!subnotification/data/results/*
+
+# Cache
+__pycache__/
+.DS_Store
+
+# Analysis data
+!seir_model/data/*.csv
+!seir_model/review_20201214/data/*.csv
+!farolcovid_versions/data/*.csv
+!reproduction_number/compare_models_20200916/*.csv
+!farolcovid_mkt/data/*.csv

@@ -1,0 +1,16 @@
+pandas
+pyyaml
+jupyter
+ipykernel
+plotly>=4.12.1
+cufflinks
+matplotlib
+scipy
+requests
+urllib3==1.24.3
+scipy
+python-dotenv
+jupyter_contrib_nbextensions
+ipywidgets
+rpy2
+geobr

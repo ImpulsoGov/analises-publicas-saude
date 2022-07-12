@@ -1,0 +1,23 @@
+,state_id,health_region_id,city_id,city_name,last_updated_cases,population,overall_alert,deaths,confirmed_cases,capacity_classification,number_icu_beds,dday_icu_beds,trust_classification,subnotification_rate,control_classification,rt_most_likely,rt_place_type,situation_classification,daily_cases,daily_cases_mavg_100k,daily_cases_growth
+1692,AL,27001,2702207,Coqueiro Seco,2020-09-06,5845,altíssimo,6.0,158.0,moderado,164,21.0,altíssimo,0.7722660653889515,novo normal,0.8713633907905785,city_id,novo normal,0.0,0.0,estabilizando
+1699,AL,27001,2707701,Rio Largo,2020-09-06,75120,altíssimo,56.0,1222.0,moderado,164,21.0,altíssimo,0.7722660653889515,novo normal,0.2648213436917233,city_id,novo normal,2.0,1.7305644302449414,estabilizando
+106,AM,13001,1301852,Iranduba,2020-09-07,48296,altíssimo,56.0,1850.0,altíssimo,267,6.0,altíssimo,0.8940162271805274,moderado,0.9225804238444442,city_id,alto,33.0,13.665728010601294,estabilizando
+2234,BA,29020,2906501,Candeias,2020-09-07,87076,alto,46.0,2091.0,novo normal,929,91.0,moderado,0.4848484848484849,alto,1.3979085320574935,city_id,alto,2.0,14.125591437365062,estabilizando
+2113,BA,29009,2932507,Una,2020-09-07,19002,alto,8.0,273.0,alto,52,18.0,moderado,0.4640287769784173,novo normal,0.8732852961869777,city_id,moderado,0.0,7.367645510998843,estabilizando
+1006,CE,23004,2305100,Guaramiranga,2020-09-08,5193,altíssimo,1.0,121.0,altíssimo,0,1.0,moderado,0.5,novo normal,0.4649658213730215,city_id,novo normal,0.0,1.925669170036588,estabilizando
+911,CE,23012,2306553,Itarema,2020-09-08,41826,altíssimo,25.0,1911.0,altíssimo,0,1.0,moderado,0.6,novo normal,0.481168099972218,city_id,alto,0.0,16.736001530148712,estabilizando
+971,CE,23010,2307601,Limoeiro do Norte,2020-09-08,59540,altíssimo,40.0,1471.0,altíssimo,0,1.0,novo normal,0.339622641509434,novo normal,0.7112664450121093,city_id,alto,6.0,17.803157541148806,estabilizando
+2488,MG,31095,3102407,Alvorada de Minas,2020-09-05,3606,,1.0,49.0,altíssimo,0,1.0,novo normal,0.0,,,health_region_id,moderado,0.0,8.319467554076539,estabilizando
+2736,MG,31047,3140209,Maripá de Minas,2020-09-05,2973,,0.0,23.0,altíssimo,0,1.0,altíssimo,0.9285714285714286,,,health_region_id,novo normal,0.0,0.0,estabilizando
+2704,MG,31016,3154606,Ribeirão das Neves,2020-09-05,334858,moderado,120.0,3217.0,novo normal,1121,91.0,moderado,0.4272151898734177,novo normal,0.5969060809818151,city_id,moderado,0.0,6.0025443620878125,estabilizando
+5187,MT,51002,5106109,Nossa Senhora do Livramento,2020-08-10,13216,altíssimo,9.0,393.0,alto,328,15.0,altíssimo,0.8202479338842975,altíssimo,1.4298282954021266,city_id,altíssimo,14.0,65.82929782082324,estabilizando
+1398,PB,25016,2502151,Boa Vista,2020-09-05,7051,,1.0,118.0,altíssimo,127,4.0,altíssimo,0.9390243902439024,,,health_region_id,altíssimo,3.0,32.61948659764572,crescendo
+1457,PB,25012,2507903,Juripiranga,2020-09-05,10756,altíssimo,10.0,520.0,altíssimo,0,1.0,altíssimo,0.8916666666666666,altíssimo,2.1710709864826443,city_id,altíssimo,9.0,47.415396058014146,estabilizando
+1313,PB,25015,2512507,Queimadas,2020-09-05,43967,altíssimo,16.0,1250.0,altíssimo,0,1.0,altíssimo,0.8867924528301887,moderado,1.0361535252524698,city_id,alto,7.0,15.693588373098006,estabilizando
+1508,PE,26003,2601706,Belo Jardim,2020-09-07,76439,altíssimo,32.0,1051.0,altíssimo,111,13.0,alto,0.6385714285714286,altíssimo,1.6849451443614067,city_id,alto,1.0,17.791964834704796,estabilizando
+1509,PE,26003,2601904,Bezerros,2020-09-07,60798,altíssimo,45.0,954.0,altíssimo,111,13.0,alto,0.6385714285714286,novo normal,0.80228673479199,city_id,alto,6.0,12.500411197736769,estabilizando
+1470,PE,26010,2604502,Chã Grande,2020-09-07,21698,,14.0,171.0,novo normal,1058,91.0,altíssimo,0.8104109589041096,,,health_region_id,,1.0,-59.91335606968385,estabilizando
+1572,PE,26004,2608602,Lagoa do Ouro,2020-09-07,13145,,4.0,51.0,altíssimo,26,11.0,alto,0.6337448559670782,,,health_region_id,,1.0,-3.0429821224800304,estabilizando
+1618,PE,26011,2615201,Terra Nova,2020-09-07,10096,,1.0,69.0,moderado,11,23.0,novo normal,0.0,,,health_region_id,moderado,0.0,3.9619651347068148,estabilizando
+3567,SP,35162,3522406,Itapeva,2020-09-04,94354,altíssimo,6.0,475.0,altíssimo,10,1.0,altíssimo,0.9714285714285714,novo normal,0.6431593187727739,city_id,moderado,12.0,11.552239438709538,estabilizando
+3633,SP,35011,3546801,Santa Isabel,2020-09-04,57386,altíssimo,67.0,1059.0,altíssimo,315,1.0,altíssimo,0.9777389786119598,novo normal,0.7501077317937977,city_id,moderado,0.0,11.501062977032724,estabilizando
