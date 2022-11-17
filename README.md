@@ -124,7 +124,7 @@ $ source ./.venv/bin/activate
 
 Siga um dos links impressos no terminal e aguarde até que uma nova aba seja aberta no seu navegador com o ambiente do Jupyter.
 
-Navegue na estrutura de arquivos do diretório da análise por meio da interface do Jupyter e localize o notebook (arquivo com extensão `.ipynb`) que deseja explorar. Abra-o e utilize os comandos do Jupyter para executar a análise de maneira interativa - *veja mais informações na [documentação do usuário](https://jupyter-notebook.readthedocs.io/en/latest/user-documentation.html) (em inglês).
+Navegue na estrutura de arquivos do diretório da análise por meio da interface do Jupyter e localize o notebook (arquivo com extensão `.ipynb`) que deseja explorar. Abra-o e utilize os comandos do Jupyter para executar a análise de maneira interativa - *veja mais informações na [documentação do usuário](https://jupyter-notebook.readthedocs.io/en/latest/user-documentation.html) (em inglês)*.
 
 *******
 
